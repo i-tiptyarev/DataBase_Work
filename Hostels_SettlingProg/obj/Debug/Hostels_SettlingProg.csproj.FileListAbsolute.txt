@@ -1,0 +1,9 @@
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\bin\Debug\Hostels_SettlingProg.exe.config
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\bin\Debug\Hostels_SettlingProg.exe
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\bin\Debug\Hostels_SettlingProg.pdb
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\obj\Debug\Hostels_SettlingProg.csprojResolveAssemblyReference.cache
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\obj\Debug\Hostels_SettlingProg.Properties.Resources.resources
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\obj\Debug\Hostels_SettlingProg.csproj.GenerateResource.Cache
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\obj\Debug\Hostels_SettlingProg.exe
+c:\users\vanek\documents\visual studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\obj\Debug\Hostels_SettlingProg.pdb
+C:\Users\Vanek\Documents\Visual Studio 2013\Projects\Hostels_SettlingProg\Hostels_SettlingProg\obj\Debug\Hostels_SettlingProg.Form1.resources
